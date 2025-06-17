@@ -7,9 +7,6 @@ Currently, two official plugins are available:
 
 Aplikasi antarmuka pengguna (UI) untuk Sistem Pendukung Keputusan (SPK) Penerimaan Beasiswa. Dibangun sebagai _Single Page Application_ (SPA) menggunakan **React.js** dan dirancang untuk menyediakan pengalaman pengguna yang modern, interaktif, dan responsif bagi administrator.
 
-![Dashboard Screenshot](https://i.imgur.com/your-dashboard-screenshot.png) 
-*(Ganti URL placeholder di atas dengan URL screenshot halaman Dashboard Anda setelah Anda mengunggahnya ke layanan hosting gambar seperti Imgur, atau letakkan gambar di repositori dan gunakan path relatif)*
-
 ---
 
 ## ✨ Fitur Utama
